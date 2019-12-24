@@ -1,18 +1,20 @@
 .box {
     width: 250px;
     height: 52px;
-    border:2px solid #ccc;
+    padding: 15px 30px;
+    border: 2px solid #ccc;
     border-radius: 16px;
+    margin: 0 auto;
 }
 
-.box div {
+.box .count {
     width: 60px;
-    color:#666;
-    font-size:  280%;
-    line-height:  50px;
+    color: #666;
+    font-size: 280%;
+    line-height: 50px;
     padding-left: 6px;
     margin-left: 5px;
-    border: 1px solid #fff;
+    border: 1px solid #fff
 }
 
 .box div {
@@ -28,14 +30,14 @@
     background-color: #eee;
 }
 
-.red{
+.red {
     background-color: red;
 }
- 
-.yellow{
+
+.yellow {
     background-color: yellow;
 }
 
-.green{
+.green {
     background-color: #26ff00;
 }
